@@ -2,7 +2,8 @@
 """
 Éditeur de Spyder
 
-Ceci est un script temporaire.
+Ceci est un script qui permet de faire un peu
+de web scraping.
 """
 
 import bs4
